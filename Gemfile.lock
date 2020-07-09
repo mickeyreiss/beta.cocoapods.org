@@ -123,7 +123,7 @@ GEM
       rest-client (>= 0.3.0)
     rest-client (1.6.7)
       mime-types (>= 1.16)
-    rouge (1.0.0)
+    rouge (3.20.0)
     sass (3.2.12)
     simple_oauth (0.2.0)
     sinatra (1.3.6)
@@ -166,7 +166,7 @@ GEM
     url_mount (0.2.1)
       rack
     yajl-ruby (1.1.0)
-    yard (0.8.6.2)
+    yard (0.9.25)
 
 PLATFORMS
   ruby
@@ -186,4 +186,4 @@ DEPENDENCIES
   sass
   slim (< 2.0)
   twitter
-  yard (~> 0.8.6.2)
+  yard (~> 0.9.25)
